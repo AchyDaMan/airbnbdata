@@ -1,4 +1,4 @@
-id,number_of_reviews,last_review,reviews_per_month,number_of_reviews_ltm
+reviews_id,number_of_reviews,last_review,reviews_per_month,number_of_reviews_ltm
 1,657,8/27/23,3.72,42
 2,290,8/4/23,1.77,21
 3,122,10/17/22,0.73,3
